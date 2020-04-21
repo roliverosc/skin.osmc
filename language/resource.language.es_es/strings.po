@@ -1665,7 +1665,7 @@ msgstr "Permite la personalización del menú de inicio[CR]Si no está instalado
 #: /SkinSettings.xml
 msgctxt "#31340"
 msgid "Additional customisation functions[CR]Required for the following two addons"
-msgstr "Funciones de personalización adicionales[CR]necesarias para los siguientes dos complementos"
+msgstr "Funciones de personalización adicionales[CR]Necesarias para los siguientes dos complementos"
 
 #: /SkinSettings.xml
 msgctxt "#31341"
@@ -1915,7 +1915,7 @@ msgstr "La lista de la derecha ofrece opciones específicas para el widget selec
 #: /SkinSettings.xml
 msgctxt "#31390"
 msgid "Disable item count"
-msgstr "Deshabilitar recuento de elementos "
+msgstr "Deshabilitar recuento de elementos"
 
 #: /SkinSettings.xml
 msgctxt "#31391"
@@ -1931,4 +1931,4 @@ msgstr "Wide low info"
 #: /SkinSettings.xml
 msgctxt "#31393"
 msgid "Notification for a subsequent episode during TV show playback"
-msgstr "Notificación de un episodio posterior durante la reproducción del programa de televisión"
+msgstr "Notificación de episodio posterior durante la reproducción de programa de televisión"
